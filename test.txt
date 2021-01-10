@@ -1,0 +1,228 @@
+Menu
+f. to finish running the program
+b. to display on the screen the information about all the books in the library
+u. to display on the screen the information about all the users
+i. to update the stored data when a book is issued to a user
+r. to update the stored data when a user returns a book to the library
+Please choose an option
+b
+You have selected option b
+-- Book List [5] --
+1. 'Finite Transition Systems' Andre Arnold [Available Now]
+2. 'Java Gently' Judith Bishop [Available Now]
+3. 'Concurrent Programming' Stephen J. Hartley [Available Now]
+4. 'Concurrent Programming' C. R. Snow [Available Now]
+5. 'Petri Nets' Wolfgang Reisig [Available Now]
+Menu
+f. to finish running the program
+b. to display on the screen the information about all the books in the library
+u. to display on the screen the information about all the users
+i. to update the stored data when a book is issued to a user
+r. to update the stored data when a user returns a book to the library
+Please choose an option
+u
+You have selected option u
+-- User List [4] --
+1.Zoe Brown (Own 0 books now)
+2.Anna Smith (Own 0 books now)
+3.John Smith (Own 0 books now)
+4.John Williams (Own 0 books now)
+Menu
+f. to finish running the program
+b. to display on the screen the information about all the books in the library
+u. to display on the screen the information about all the users
+i. to update the stored data when a book is issued to a user
+r. to update the stored data when a user returns a book to the library
+Please choose an option
+i
+You have selected option i
+Please input your name
+Anna dehwde
+User doesn't exist
+Menu
+f. to finish running the program
+b. to display on the screen the information about all the books in the library
+u. to display on the screen the information about all the users
+i. to update the stored data when a book is issued to a user
+r. to update the stored data when a user returns a book to the library
+Please choose an option
+i
+You have selected option i
+Please input your name
+Anna Smith
+Welcome User Anna Smith!
+Please enter the title of the book you want to borrow
+Concurrent Programming
+Please enter the author name of the book you want to borrow
+C. R. Snow
+Valid Book 'Concurrent Programming'
+[borrow book 'Concurrent Programming' successfully]
+Menu
+f. to finish running the program
+b. to display on the screen the information about all the books in the library
+u. to display on the screen the information about all the users
+i. to update the stored data when a book is issued to a user
+r. to update the stored data when a user returns a book to the library
+Please choose an option
+i
+You have selected option i
+Please input your name
+Anna Smith
+Welcome User Anna Smith!
+Please enter the title of the book you want to borrow
+Concurrent Programming
+Please enter the author name of the book you want to borrow
+Stephen J. Hartley
+Valid Book 'Concurrent Programming'
+[borrow book 'Concurrent Programming' successfully]
+Menu
+f. to finish running the program
+b. to display on the screen the information about all the books in the library
+u. to display on the screen the information about all the users
+i. to update the stored data when a book is issued to a user
+r. to update the stored data when a user returns a book to the library
+Please choose an option
+i
+You have selected option i
+Please input your name
+Anna Smith
+Welcome User Anna Smith!
+Please enter the title of the book you want to borrow
+Java Gently
+Please enter the author name of the book you want to borrow
+Judith Bishop
+Valid Book 'Java Gently'
+[borrow book 'Java Gently' successfully]
+Menu
+f. to finish running the program
+b. to display on the screen the information about all the books in the library
+u. to display on the screen the information about all the users
+i. to update the stored data when a book is issued to a user
+r. to update the stored data when a user returns a book to the library
+Please choose an option
+i
+You have selected option i
+Please input your name
+Anna Smith
+Welcome User Anna Smith!
+You can only hold 3 books at the same time!
+Menu
+f. to finish running the program
+b. to display on the screen the information about all the books in the library
+u. to display on the screen the information about all the users
+i. to update the stored data when a book is issued to a user
+r. to update the stored data when a user returns a book to the library
+Please choose an option
+i
+You have selected option i
+Please input your name
+Zoe Brown
+Welcome User Zoe Brown!
+Please enter the title of the book you want to borrow
+Concurrent Programming
+Please enter the author name of the book you want to borrow
+C. R. Snow
+Valid Book 'Concurrent Programming'
+Sorry, this book is being used by others, and we will tell him/her to return it as soon as possible.
+Menu
+f. to finish running the program
+b. to display on the screen the information about all the books in the library
+u. to display on the screen the information about all the users
+i. to update the stored data when a book is issued to a user
+r. to update the stored data when a user returns a book to the library
+Please choose an option
+r
+You have selected option r
+Please input your name
+Anna Smith
+Welcome User Anna Smith!
+Menu
+f. to finish running the program
+b. to display on the screen the information about all the books in the library
+u. to display on the screen the information about all the users
+i. to update the stored data when a book is issued to a user
+r. to update the stored data when a user returns a book to the library
+Please choose an option
+r
+You have selected option r
+Please input your name
+Anna Smith
+Welcome User Anna Smith!
+Please enter the title of the book you want to return
+Finite Transition Systems
+Please enter the author name of the book you want to return
+Andre Arnold
+The book has not been borrowed at the moment, you can't return it.
+Menu
+f. to finish running the program
+b. to display on the screen the information about all the books in the library
+u. to display on the screen the information about all the users
+i. to update the stored data when a book is issued to a user
+r. to update the stored data when a user returns a book to the library
+Please choose an option
+r
+You have selected option r
+Please input your name
+Zoe Brown
+Welcome User Zoe Brown!
+Please enter the title of the book you want to return
+Concurrent Programming
+Please enter the author name of the book you want to return
+C. R. Snow
+Sorry, you cannot return books for others.
+Menu
+f. to finish running the program
+b. to display on the screen the information about all the books in the library
+u. to display on the screen the information about all the users
+i. to update the stored data when a book is issued to a user
+r. to update the stored data when a user returns a book to the library
+Please choose an option
+r
+You have selected option r
+Please input your name
+Anna Smith
+Welcome User Anna Smith!
+Please enter the title of the book you want to return
+Concurrent Programming
+Please enter the author name of the book you want to return
+C. R. Snow
+[return book 'Concurrent Programming' successfully]
+Menu
+f. to finish running the program
+b. to display on the screen the information about all the books in the library
+u. to display on the screen the information about all the users
+i. to update the stored data when a book is issued to a user
+r. to update the stored data when a user returns a book to the library
+Please choose an option
+b
+You have selected option b
+-- Book List [5] --
+1. 'Finite Transition Systems' Andre Arnold [Available Now]
+2. 'Java Gently' Judith Bishop [borrowed by Anna Smith]
+3. 'Concurrent Programming' Stephen J. Hartley [borrowed by Anna Smith]
+4. 'Concurrent Programming' C. R. Snow [Available Now]
+5. 'Petri Nets' Wolfgang Reisig [Available Now]
+Menu
+f. to finish running the program
+b. to display on the screen the information about all the books in the library
+u. to display on the screen the information about all the users
+i. to update the stored data when a book is issued to a user
+r. to update the stored data when a user returns a book to the library
+Please choose an option
+u
+You have selected option u
+-- User List [4] --
+1.Zoe Brown (Own 0 books now)
+2.Anna Smith (Own 2 books now)
+3.John Smith (Own 0 books now)
+4.John Williams (Own 0 books now)
+Menu
+f. to finish running the program
+b. to display on the screen the information about all the books in the library
+u. to display on the screen the information about all the users
+i. to update the stored data when a book is issued to a user
+r. to update the stored data when a user returns a book to the library
+Please choose an option
+f
+You have selected option f
+Exiting now...
