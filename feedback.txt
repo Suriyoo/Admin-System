@@ -1,0 +1,17 @@
+Feedback for "Assessed Coursework"
+Write your comments here.
+
+1. you have provided a correct declarations of fields, constructors and correctly implemented compareTo methods in Book class and User class. well done
+
+2.you have correctly implemented the SortedArrayList<E> method. well done
+
+3.you have define you scanner object  and user prompt correctly and have also provided means to handle invalid character using default statement in switch statement.
+
+4. You have provided the correct use of PrintWriter and a correct declaration and use of a Scanner object was provided. well done.
+
+5. you have also provided a correct implementation of f, b, u, i, and r operations. well done
+
+6. your variable names are okay however you should have splitted the IO class into several methods to enable code readability. you have also provided a rich comments in the program. well done
+
+7. you haveprovided a very rich evidence of testing. well done
+
